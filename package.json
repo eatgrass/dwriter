@@ -1,0 +1,19 @@
+{
+  "name": "dwriter",
+  "version": "1.0.0",
+  "description": "editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatgrass/dwriter.git"
+  },
+  "author": "eatgrass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eatgrass/dwriter/issues"
+  },
+  "homepage": "https://github.com/eatgrass/dwriter#readme"
+}
